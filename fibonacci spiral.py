@@ -1,3 +1,6 @@
+"""welcom to the two sided fibonacci spiral. i find it more interesting than the normal one, since the normal one is just a spiral
+it makes circles in circles, which in my opinion is very cool. run this code and tell me your opinion."""
+
 """imports"""
 from turtle import *#turtle draws the process.
 from math import pi#we need pi to calculate the moves needed in 90 degrees. current number*pi/90=move (if we turn 1 degree right each time).
